@@ -10,11 +10,11 @@ Although this project was not fully completed, it helped me gain hands-on experi
 
 
 <h1>Technologies Used</h1>
-<h5>AWS S3</h5> - For secure cloud storage of backups 
-<h5>IAM Roles and Policies</h5> - To manage access control
-<h5>AWS Backup</h5> - To automate scheduled backups 
-<h5>AWS CloudWatch</h5> - For monitoring backup health 
-<h5>Python (Boto3 SDK)</h5> - For scripting and automation 
+<h5>AWS S3</h5> For secure cloud storage of backups 
+<h5>IAM Roles and Policies</h5> To manage access control
+<h5>AWS Backup</h5> To automate scheduled backups 
+<h5>AWS CloudWatch</h5> For monitoring backup health 
+<h5>Python (Boto3 SDK)</h5> For scripting and automation 
 
 <h1>Features Implemented</h1>
 

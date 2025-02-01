@@ -19,9 +19,13 @@ Although this project was not fully completed, it helped me gain hands-on experi
 <h1>Features Implemented</h1>
 
 Configured AWS S3 as the primary storage for backups 
+
 Created IAM Roles and Policies to secure access 
+
 Set up AWS Backup with automated schedules 
+
 Monitored backups using AWS CloudWatch logs and metrics 
+
 Wrote Python scripts to automate data uploads 
 
 
